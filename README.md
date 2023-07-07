@@ -35,8 +35,6 @@ This project is my first Springboot project and it is containerized using docker
 
 ## Features
 
-- Get ALL Speakers
-- Get a specific session by ID
-- Create a speaker
-- Delete a session
-- Update a speaker
+- CRUD functionality for all speakers
+- CRUD functionality for all sessions
+- Relational data set between speakers and sessions
