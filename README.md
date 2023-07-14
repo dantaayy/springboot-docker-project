@@ -36,14 +36,5 @@ This project is my first Springboot project and it is containerized using docker
 ## Features
 
 - CRUD functionality for all speakers
-  
-  ![image](https://github.com/dantaayy/springboot-docker-project/assets/74522928/ee4f3fd1-91b3-41d4-8d8c-54e50840a5ab)
-
-  
 - CRUD functionality for all sessions
 - Relational data set between speakers and sessions
-
-  ![image](https://github.com/dantaayy/springboot-docker-project/assets/74522928/b244c4d3-4786-4382-9aab-f75fcc7557f1)
-  
-  ![image](https://github.com/dantaayy/springboot-docker-project/assets/74522928/7ca1e1f5-0053-4a77-859c-678567ae0123)
-
